@@ -1,3 +1,3 @@
-# NBA ELO
+# NBA Elo
 
-Analyzing ELO ratings of NBA teams over time
+Analyzing Elo ratings of NBA teams over time
